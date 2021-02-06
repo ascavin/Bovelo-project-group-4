@@ -7,3 +7,4 @@ Software engineering 2 project
 - Lucid Chart : https://lucid.app/lucidchart/2d7e6938-bb10-4799-b251-3f24b5d9584f/edit?page=0_0#?folder_id=home&browser=icon
 - Creatly : https://app.creately.com/diagram/KlDGg7FOAVr/edit
 - Design brief : https://claco.ecam.be/apiv2/resource_file79568/raw
+- Draw : https://drive.google.com/file/d/1Gk_sozGZPf4hDu128_76lsnuZxIa-klZ/view?usp=sharing
