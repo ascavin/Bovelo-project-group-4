@@ -6,6 +6,9 @@ namespace Bovelo
         public string Provider = " ";
         public int Price = 0;
 
+        public Storage storage_information = new Storage();
+
+
     }
 
 
